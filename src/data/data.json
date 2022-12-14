@@ -1,0 +1,28 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "date": "2022-03-28",
+      "title": "Car Insurance",
+      "amount": 15895.0
+    },
+    {
+      "id": "2",
+      "date": "2021-02-16",
+      "title": "Electricity Bill",
+      "amount": 912.0
+    },
+    {
+      "id": "3",
+      "date": "2020-12-26",
+      "title": "House maintenance",
+      "amount": 20000.0
+    },
+    {
+      "id": "4",
+      "date": "2020-10-26",
+      "title": "Car maintenance",
+      "amount": 930.0
+    }
+  ]
+}
